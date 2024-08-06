@@ -1,0 +1,20 @@
+Branches
+
+Local Branches
+main
+
+Remote:    
+    
+    origin/HEAD
+    origin/dependabot/github_actions/actions/checkout-4
+    origin/dependabot/github_actions/actions/github-script-7
+    origin/dependabot/github_actions/hashicorp/tfc-workflows-github-1.3.1
+
+    origin/dev-pr-3
+    origin/main
+
+History: 
+commit -247b428 Initial commit
+Commit short - 247b428
+Commit message - Initial commit
+Commit identifier - 247b4287f72b7ada07c897377d9e694fdbf90914
